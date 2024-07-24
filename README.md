@@ -1,4 +1,4 @@
-# toku_app
+# Japanese Learning App
 
 A new Flutter project.
 
